@@ -27,8 +27,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/claudiunderthehood/transactions_mlp.git
+   cd transactions_mlp
    ```
 
 2. **Install dependencies**:
